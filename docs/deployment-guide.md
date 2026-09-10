@@ -42,11 +42,10 @@ Which files or configuration values matter for this deployment?
 Record the real procedure in the order you performed it.
 
 | Step | Action | Expected result | Actual result / evidence |
-| --- | --- | --- | --- |
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
+| 1 | | clone repository  | git clone | obtaining the files | my repo "https://github.com/leoboh/projet-1-ekod-anglais"
+| 2 | check files | ls | files are present | - 
+| 3 | push a new commit | see the the link of the url in my deployement in github | the link is here | -
+| 4 | Acces to the link of the application | test button | the button is not working on mine | - |
 | 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |
