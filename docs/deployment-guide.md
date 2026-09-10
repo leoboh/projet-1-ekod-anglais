@@ -77,6 +77,7 @@ Record the evidence that another person could use to confirm what happened.
 
 Did anything happen differently from the planned procedure?
 
+Yes, GitLab has changed its sign-up procedure. They have added a requirement to provide a bank card to verify the user's identity.
 
 ## 9. Documentation improvement
 
