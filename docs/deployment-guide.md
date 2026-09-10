@@ -16,24 +16,25 @@
 
 What are you deploying, and what is included in this release?
 
+I'm deploying an application named "The Developer Excuse Generator". This application is a web-based tool that generates excuses for developers. The release includes the source code and it's for the "main" branch of the repository.
 
 ## 3. Prerequisites
 
 What must already be available, configured or confirmed before deployment can begin?
 
-- 
-- 
-- 
-- 
+- IAM roles
+- Environment variables
+- All documents and files needed for the application ( ex : deployement-guide / package)
+- Database access
 
 ## 4. Files and configuration involved
 
 Which files or configuration values matter for this deployment?
 
 | Item | Purpose | What must be checked? |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| .env | Environment variables | Ensure that the values ​​align well with the environment |
+| .gitlab-ci.yml | Defines the deployment pipeline stages. | Ensure the deployment points to the correct branch/environment |
+| README | helping for started the application | that all the files are indeed present for run the application |
 |  |  |  |
 
 ## 5. Deployment procedure
