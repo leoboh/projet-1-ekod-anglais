@@ -57,9 +57,9 @@ What must be checked after deployment before you can call the release successful
 
 | Check | Expected result | Actual result | Pass / fail |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| the application starts and responds | the application start | the application start | Pass |
+| no errors | no errors | no errors | Pass | 
+| functional core user journeys (login, payment, account creation, etc.) | functional core user journeys | functional core user journeys | pass |
 |  |  |  |  |
 
 ## 7. Evidence
