@@ -9,8 +9,8 @@
 - Target environment: github
 - Repository / project: https://github.com/leoboh/projet-1-ekod-anglais
 - Branch used for deployment: main
-- Date: 10
-- Author: leo
+- Date: 10/09/2026
+- Author: Leo
 
 ## 2. Purpose and scope
 
