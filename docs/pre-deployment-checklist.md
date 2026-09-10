@@ -4,25 +4,25 @@
 
 ## Release identity
 
-- [ 1.0.0 ] 
-- [ Works On My Machine(TM) ] 
+- [ 1.0.0 ]
+- [ Works On My Machine(TM) ]
 
 ## Target environment
 
-- [ dev ] 
-- [ prod ] 
+- [ dev ]
+- [ prod ]
 
 ## Access and prerequisites
 
-- [ web connection ] 
-- [ deployment guide ] 
-- [ technical documentation (readme) ] 
+- [ web connection ]
+- [ deployment guide ]
+- [ technical documentation (readme) ]
 
 ## Files and configuration
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ workflows ]
+- [ docs ]
+- [ public ]
 
 ## Security
 
