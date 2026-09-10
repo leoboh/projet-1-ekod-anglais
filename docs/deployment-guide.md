@@ -4,13 +4,13 @@
 
 ## 1. Deployment identification
 
-- Application:
-- Release / version:
-- Target environment:
-- Repository / project:
-- Branch used for deployment:
-- Date:
-- Author:
+- Application: The Developer Excuse Generator
+- Release / version: v1
+- Target environment: github
+- Repository / project: https://github.com/leoboh/projet-1-ekod-anglais
+- Branch used for deployment: main
+- Date: 10
+- Author: leo
 
 ## 2. Purpose and scope
 
@@ -83,4 +83,5 @@ Yes, GitLab has changed its sign-up procedure. They have added a requirement to 
 
 After completing the deployment, what should be added, removed or clarified in this guide before another person uses it?
 
-
+Add a new commentary for github users to understand the deployment process. 
+Delete my repository from the guide. 
